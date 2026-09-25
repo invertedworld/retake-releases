@@ -5,7 +5,7 @@ including every pointer movement, zoom, keystroke overlay, voiceover and camera.
 
 ## Download
 
-**[Download Retake 1.0.1 (DMG)](https://github.com/invertedworld/retake-releases/releases/latest/download/Retake-1.0.1.dmg)**
+**[Download Retake 1.0.2 (DMG)](https://github.com/invertedworld/retake-releases/releases/latest/download/Retake-1.0.2.dmg)**
 · [All releases](https://github.com/invertedworld/retake-releases/releases)
 
 Requires macOS 15 or later. Signed with a Developer ID and notarized by Apple.
