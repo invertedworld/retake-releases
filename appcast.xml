@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake 1.0.20</title>
+      <pubDate>Wed, 30 Sep 2026 15:30:32 GMT</pubDate>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Hold the picture while you talk.</b> While recording a voiceover, press <b>⇧Space</b> (or click <b>Hold Picture</b>) to stop the video while your voice and camera keep recording, so you can finish a sentence. The preview shows <b>PAUSED</b>; <b>Space</b> or <b>⇧Space</b> carries on. When the voiceover stops, each hold becomes a freeze frame on the Speed lane, so the narration stays in step with the picture.</li><li><b>Markers while narrating.</b> Press <b>M</b> during a voiceover to add a marker at the playhead.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.20/Retake-1.0.20.dmg" sparkle:edSignature="mM8LmDt8lSPiMJSbY4wZUL8ayM05ukZdkvUqvd1kUEmASx6PUELnlOmnRDv04YvhqwzkMSbHlB6ekd+pmajvBg==" length="8497425" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake 1.0.19</title>
       <pubDate>Wed, 30 Sep 2026 13:56:21 GMT</pubDate>
       <sparkle:version>45</sparkle:version>
