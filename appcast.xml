@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Retake</title>
+    <link>https://invertedworld.github.io/retake-releases/appcast.xml</link>
+    <description>Retake updates</description>
+    <language>en</language>
+    <item>
+      <title>Retake 1.0.19</title>
+      <pubDate>Wed, 30 Sep 2026 13:56:21 GMT</pubDate>
+      <sparkle:version>45</sparkle:version>
+      <sparkle:shortVersionString>1.0.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Automatic updates.</b> Retake now checks for new versions once a day and offers to install them; <b>Retake › Check for Updates…</b> checks straight away, and <b>Check for Updates Automatically</b> turns the daily check off. Updates are signed and verified before they are installed. Earlier versions don't check, so this version is installed by hand once; later versions are offered automatically.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.19/Retake-1.0.19.dmg" sparkle:edSignature="Gv7D/U42BAQIlTypVSUB8sJwsdPQhFIzOODVTuKl9NFFgcxBx6WeXM5fcL7nIFD82yGJzzvY4CtW6+LYSkCxBA==" length="8467254" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
