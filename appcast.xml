@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake 1.0.22</title>
+      <pubDate>Wed, 30 Sep 2026 17:22:24 GMT</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>1.0.22</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Smooth playback while editing.</b> Changing a speed change (or anything else that rebuilds the video) while playing no longer makes the playhead jump to the start or pause; playback carries straight on. The playhead also no longer steps back when you press play.</li><li><b>Markers stay on their frame.</b> A marker marks a frame of the recording: adding, changing or deleting a speed change, or trimming, moving or deleting clips, moves it with that frame. A marker in a freeze frame keeps its place in the freeze.</li><li><b>The view is saved with the project.</b> Where the timeline is scrolled to, how far it is zoomed, and the playhead are saved and restored when you open the project again.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.22/Retake-1.0.22.dmg" sparkle:edSignature="0NMtP2gJaC0ctLroU68prZEtr2N2Acuuz6eoOQpHagZbU6VvxFM387w6pDY+nWCd53LvQgRRcCvOPRiuy/nmDQ==" length="8550083" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake 1.0.21</title>
       <pubDate>Wed, 30 Sep 2026 16:33:58 GMT</pubDate>
       <sparkle:version>47</sparkle:version>
