@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake 1.0.26</title>
+      <pubDate>Wed, 30 Sep 2026 21:53:20 GMT</pubDate>
+      <sparkle:version>52</sparkle:version>
+      <sparkle:shortVersionString>1.0.26</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixes a regression in 1.0.25.</p><ul><li>A region dragged with snapping on no longer flickers between its starting position and the snapped one while a snap guide is showing (RET-76).</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.26/Retake-1.0.26.dmg" sparkle:edSignature="aZv69R5BBhDlrQoKPbz/6bvibQ+e9LtpB4CBVR0IZPUcQVsb08NhusY1lR/i9QiLJGT+XUpGcSgRjHxvI023AQ==" length="8623107" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake 1.0.25</title>
       <pubDate>Wed, 30 Sep 2026 21:35:47 GMT</pubDate>
       <sparkle:version>51</sparkle:version>

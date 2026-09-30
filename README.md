@@ -5,7 +5,7 @@ including every pointer movement, zoom, keystroke overlay, voiceover and camera.
 
 ## Download
 
-**[Download Retake 1.0.25 (DMG)](https://github.com/invertedworld/retake-releases/releases/latest/download/Retake-1.0.25.dmg)**
+**[Download Retake 1.0.26 (DMG)](https://github.com/invertedworld/retake-releases/releases/latest/download/Retake-1.0.26.dmg)**
 
 [User manual (PDF)](https://github.com/invertedworld/retake-releases/releases/latest/download/Retake-User-Manual.pdf) — also included in the app (Help › User Manual (PDF)).
 · [All releases](https://github.com/invertedworld/retake-releases/releases)
