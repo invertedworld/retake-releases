@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake 1.0.27</title>
+      <pubDate>Wed, 30 Sep 2026 22:18:19 GMT</pubDate>
+      <sparkle:version>53</sparkle:version>
+      <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>In a project with no screen clip yet, the controls that need one are greyed out: play and the jumps to start and end, Voiceover, Edit Pointer, the razor, the marker flag, the timeline zoom buttons, and the matching menu items (Record Voiceover, Edit Pointer, Split at Playhead, Import Audio, Export). Edit Pointer could previously be switched on with nothing to edit, and M put a marker at 0:00 (RET-77).</li><li>Preflight Check: the tick box reads "Show this screen before recording" and is centred in the footer (RET-78).</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.27/Retake-1.0.27.dmg" sparkle:edSignature="eI0B9YD8VI0MmO3tRaYRJZXtVjsI3wpzDE4Et5d5egOSzTSQaumjKKBY3/PwgD2OBFjbz62m2p8ufJsizYJtAg==" length="8624463" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake 1.0.26</title>
       <pubDate>Wed, 30 Sep 2026 21:53:20 GMT</pubDate>
       <sparkle:version>52</sparkle:version>
