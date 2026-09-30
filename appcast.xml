@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake 1.0.24</title>
+      <pubDate>Wed, 30 Sep 2026 19:49:31 GMT</pubDate>
+      <sparkle:version>50</sparkle:version>
+      <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Pause and resume are reliable.</b> A screen recording that was paused and resumed could fail with "No frames were captured" when stopped. It is now kept, including when paused before the first frame.</li><li><b>Deleting clips keeps your audio.</b> Deleting or cutting a screen clip no longer removes, trims or moves voiceovers, camera takes or music; only the screen clips close the gap.</li><li><b>Splitting a clip leaves a plain cut.</b> The new cut has no transition and no fades; the clip's transitions and sound fades stay at its start and end.</li><li><b>Back to the start.</b> After a voiceover, kept or discarded, the playhead returns to where it started.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.24/Retake-1.0.24.dmg" sparkle:edSignature="PrP+MTvn6ibaIdauiXHPdRRjbBqLCSBtCaU0LjpKToNHyb+ZUCpmgmIONCDPOeLOVddHZ6/L5yIt5jvoFPRACQ==" length="8572797" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake 1.0.23</title>
       <pubDate>Wed, 30 Sep 2026 18:39:49 GMT</pubDate>
       <sparkle:version>49</sparkle:version>
