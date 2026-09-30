@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake 1.0.21</title>
+      <pubDate>Wed, 30 Sep 2026 16:33:58 GMT</pubDate>
+      <sparkle:version>47</sparkle:version>
+      <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Crossfades.</b> Audio items that run into each other on the same lane now crossfade across the overlap instead of cutting over. The overlap is drawn with the two fade curves crossing.</li><li><b>Hear a trim.</b> While dragging the edge of a voiceover, camera take or music item, press <b>Space</b> to hear the second of audio at the new edge; a small playhead follows it.</li><li><b>Freeze frames</b> start and stop at once, with no easing. Other speed changes keep their easing.</li><li><b>Timeline locked while narrating.</b> While a voiceover records, the timeline is dimmed and can't be edited, so nothing moves under the narration.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.21/Retake-1.0.21.dmg" sparkle:edSignature="PQyk5ce2+eWRfGQlX11ywm0DfxOqmkogbV2555feS+vYNlxhUU4oImAQoHOv1En4QjGFFnBW2eBOtaUjIaGaBw==" length="8533459" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake 1.0.20</title>
       <pubDate>Wed, 30 Sep 2026 15:30:32 GMT</pubDate>
       <sparkle:version>46</sparkle:version>
