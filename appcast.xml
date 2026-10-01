@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake 1.0.30</title>
+      <pubDate>Thu, 01 Oct 2026 08:02:00 GMT</pubDate>
+      <sparkle:version>56</sparkle:version>
+      <sparkle:shortVersionString>1.0.30</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Clicks added to a recording whose pointer was never on the picture (a window recording made with the pointer outside the window, or one with no pointer events) now show on the preview and play their ripple, in the middle of the picture. Adding such a click makes a keyframe there, so it can be dragged where it belongs; the pointer jumps to it rather than gliding in from off the picture. The mouse overlay's live handle is drawn dashed when the pointer isn't on the picture (RET-85).</li><li>Selecting a range on the Mouse lane and pressing Delete removes every click and keyframe in it; the lane's command is now Delete Mouse Events (RET-86).</li><li>In the mouse overlay, clicking a keyframe selects it and puts the playhead on its frame; clicking a click's pink ring selects the click and goes to its frame. In the whole-project view, other clips' keyframes and clicks do the same. Dragging still moves the keyframe (RET-87).</li><li>"Edit Pointer" is now called "Show Mouse Overlay" throughout.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.30/Retake-1.0.30.dmg" sparkle:edSignature="ufUt61CNFTmSirlRbYZvTSCMCNApxMwAVqI5yLFj6+Fq6Yyb6hjSwYMWysNg1WaZcvv2WM8iO38b+VU+WLXABA==" length="8688476" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake 1.0.29</title>
       <pubDate>Thu, 01 Oct 2026 06:04:55 GMT</pubDate>
       <sparkle:version>55</sparkle:version>
