@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake 1.0.32</title>
+      <pubDate>Thu, 01 Oct 2026 13:05:26 GMT</pubDate>
+      <sparkle:version>58</sparkle:version>
+      <sparkle:shortVersionString>1.0.32</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Drop a movie (MOV, MP4, M4V and the other formats macOS plays) onto the Capture lane to add it as a clip at the drop point, its whole length, moving what follows along; a line shows where it will go while you drag. Its sound, if it has any, appears on the System audio lane under the clip's volume and fades; a movie with several sound tracks keeps the first. It takes transitions, speed changes and zooms like any clip, and plays and exports. The movie is copied into the project folder as it is; one that is rotated, in HDR or larger than 3840×2160 is re-encoded to fit, with progress in the status bar. Pictures and movies dropped together go in one after another (RET-90).</li><li>Rotate buttons in the Selection pane for dropped pictures and movies: each press turns the clip a quarter turn left or right, for one that arrived the wrong way up. The clip keeps its place, trims, transitions, speed changes and zooms; a movie is re-encoded, with progress in the status bar. Undo turns it back (RET-91).</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.32/Retake-1.0.32.dmg" sparkle:edSignature="N/Ln5Ou0Vu2izTvLbEJj53lHBQYdmYifkmf0Q+YMw45SlF0JRicYjGsR0dGRMTYV8wkUDGPE45vdZcrmWZ3BCw==" length="8795024" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake 1.0.31</title>
       <pubDate>Thu, 01 Oct 2026 12:13:44 GMT</pubDate>
       <sparkle:version>57</sparkle:version>
