@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake 1.0.31</title>
+      <pubDate>Thu, 01 Oct 2026 12:13:44 GMT</pubDate>
+      <sparkle:version>57</sparkle:version>
+      <sparkle:shortVersionString>1.0.31</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Drop a picture (PNG, JPEG, HEIC, TIFF and the other formats macOS reads) onto the Capture lane to add it as a clip at the drop point, 3 seconds long, moving what follows along; a line shows where it will go while you drag. Drag its edges to any length up to 10 minutes. It takes transitions, speed changes and zooms like any clip, and plays and exports. Several pictures dropped together go in one after another. Pictures larger than 3840×2160 are scaled to fit; the original is kept in the project folder (RET-88).</li><li>Drag across empty space on the Zoom or Speed lane to add a zoom or speed change spanning the drag, shown as you draw it; the end you drag snaps to markers and other edges, and a speed change stops at a neighbouring one. Shift- or ⌘-drag still draws a selection box; double-click works as before (RET-89).</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.31/Retake-1.0.31.dmg" sparkle:edSignature="4QJ+BkLQUbIjYXIbn5iywcoCFpWf8yd1H1yfD37AfOdQidXol5G/zfXa4xJefcJ2GVdAGciw9dpUJRcE+ds3Dg==" length="8719568" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake 1.0.30</title>
       <pubDate>Thu, 01 Oct 2026 08:02:00 GMT</pubDate>
       <sparkle:version>56</sparkle:version>
