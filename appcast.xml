@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake 1.0.29</title>
+      <pubDate>Thu, 01 Oct 2026 06:04:55 GMT</pubDate>
+      <sparkle:version>55</sparkle:version>
+      <sparkle:shortVersionString>1.0.29</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>A Markers tab in the inspector lists every marker in order, with its colour, a name field, its time (click to put the playhead there) and a delete button, and a button to add a marker at the playhead. A named marker shows its name centred above its flag in the ruler. Names are saved with the project (RET-82).</li><li>With the inspector unpinned, the strip on the window's right edge that slides it in is wider and marked with a chevron (RET-83).</li><li>The Mouse tab's Edit Movement section has a 1 s / All switch beside Edit Pointer: the preview shows the pointer's path, keyframes and clicks for one second either side of the playhead, or for the whole project, with the other clips' events drawn fainter. The setting is remembered (RET-84).</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.29/Retake-1.0.29.dmg" sparkle:edSignature="iWTaBWCRWN9XSM5ADqKYez8RA/9mewoSVVUuAaB5ewtLa08NHz83/ofXrUX+Hhtw4gEet8I+F0tSAswP8HGVCw==" length="8673544" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake 1.0.28</title>
       <pubDate>Wed, 30 Sep 2026 23:02:54 GMT</pubDate>
       <sparkle:version>54</sparkle:version>
