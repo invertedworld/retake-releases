@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake 1.0.37</title>
+      <pubDate>Thu, 08 Oct 2026 16:46:13 GMT</pubDate>
+      <sparkle:version>63</sparkle:version>
+      <sparkle:shortVersionString>1.0.37</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>## Captions in the video</p><p>## Editing the video by its transcript</p><p>## Fixes</p><p>## Licensing</p><ul><li>Captions can now be drawn in the preview and in exported movies and GIFs. Turn on <b>Show captions</b> in the new <b>Captions</b> tab of the inspector.</li><li><b>Animation</b> offers Phrase, Highlight, Word by Word, Pop, Slide Up, Fly In, Fly Across, Zoom and Typewriter.</li><li><b>Font</b> offers Rounded, System, Serif and Monospaced, the typefaces used most recently, and <b>Choose Font…</b>, which opens a font picker listing every installed family and each of its weights, italics and widths.</li><li><b>Position</b>, <b>Background</b>, <b>Size</b>, and the <b>Text</b> and <b>Highlight</b> colours are also set in the Captions tab. The caption settings are part of a preset.</li><li>Transcription now records the time of each word. Narration transcribed by an earlier version is timed in proportion to word length until it is transcribed again.</li><li><b>File › Export Subtitles…</b> saves the captions as an SRT or WebVTT file.</li><li>The <b>Transcript</b> section of the Captions tab shows all narration as text. Clicking a word moves the playhead to it.</li><li>Selecting words and pressing <b>⌘Delete</b>, or choosing <b>Delete from Video</b>, cuts that stretch out of the screen clips, narration, music and speed changes. Typing in the transcript corrects the captions without cutting the video.</li><li><b>Shorten Pauses</b> shortens pauses longer than a second to 0.4 seconds. <b>Remove Fillers</b> cuts filler words such as *um* and *uh* that appear in the transcript.</li><li>The microphone take recorded with the screen now uses the microphone chosen in the Microphone tab. Previously it recorded from the Mac's default input.</li><li>Microphone and camera takes recorded with the screen now duck the music. They still do not duck the screen audio recorded with them. Projects saved by earlier versions are converted when opened.</li><li>Captions count as a Full Version feature only when they are drawn in the video. Exporting subtitles is available in the free version.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.37/Retake-1.0.37.dmg" sparkle:edSignature="ZEefxdJQaZIOTOVJbkXgQ+0FkcnDes4arIMUfhaiFMRsaWDyrqfk8hWXZakq06ONycPGLjBuPI9kjZVWSRm8AQ==" length="9859582" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake 1.0.36</title>
       <pubDate>Thu, 08 Oct 2026 11:13:14 GMT</pubDate>
       <sparkle:version>62</sparkle:version>
