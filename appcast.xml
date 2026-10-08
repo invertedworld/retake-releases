@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake 1.0.35</title>
+      <pubDate>Thu, 08 Oct 2026 07:14:30 GMT</pubDate>
+      <sparkle:version>61</sparkle:version>
+      <sparkle:shortVersionString>1.0.35</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Changing a volume, a fade or the ducking while the video plays no longer stops playback; the change is heard at once (RET-146).</li><li>A new overlay starts slightly smaller than the frame, and the handles of an overlay at the edge of the picture can now be grabbed (RET-144).</li><li>Sound files dragged from the Finder onto the timeline go on the Music lane at the drop point (RET-145).</li><li>The System audio lane is shown only when the recordings have sound, also while every lane is shown (RET-143).</li><li>The camera thumbnail in Preflight Check keeps its Circle shape with the System Default camera, and shows its picture reliably (RET-142).</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.35/Retake-1.0.35.dmg" sparkle:edSignature="lcrzZkkXbEn0SiSWOL3+tbeU8w5rWpxYMiUFYbV/SMqQLJZtsDvDpTji/I82CMxlhxfX/rJVjyQSTMzBMsRLDg==" length="9492819" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake 1.0.34</title>
       <pubDate>Thu, 08 Oct 2026 06:23:33 GMT</pubDate>
       <sparkle:version>60</sparkle:version>
