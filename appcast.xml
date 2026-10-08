@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake 1.0.36</title>
+      <pubDate>Thu, 08 Oct 2026 11:13:14 GMT</pubDate>
+      <sparkle:version>62</sparkle:version>
+      <sparkle:shortVersionString>1.0.36</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>When Retake first starts after an update has been installed, a dialog says that it has been updated and gives the version now installed. <b>What's New</b> opens the release page for that version (RET-147).</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.36/Retake-1.0.36.dmg" sparkle:edSignature="+23Ggbjp4qsjRxSdepiDBA3zcpmUb9FaQg1mjFc7PggZS2ziE8li3RrjuuYGIFdTmrrJt9pNcH+HHiZDNR+5Cw==" length="9496560" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake 1.0.35</title>
       <pubDate>Thu, 08 Oct 2026 07:14:30 GMT</pubDate>
       <sparkle:version>61</sparkle:version>
