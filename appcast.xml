@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.40</title>
+      <pubDate>Fri, 09 Oct 2026 19:58:48 GMT</pubDate>
+      <sparkle:version>66</sparkle:version>
+      <sparkle:shortVersionString>1.0.40</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li><b>Recreate Whole Path</b> in the Pointer tab replaces the pointer's movement over the whole project with a new path. The pointer remains still between clicks and moves only to reach the next click; drags keep their recorded route, lightly smoothed. The path continues across cuts between clips. <b>Human</b> sets how regular the moves are, from smooth eased curves at 0% to a less even path at 100%. The command is one step to undo.</li><li><b>Make Less Boring</b> in the Timeline tab cuts out every stretch longer than the <b>Boredom threshold</b> (0.5 to 10 seconds) in which nothing moves on screen and nothing is heard but music. Microphone and voiceover sound is measured after the noise gate. Music is not cut, and each cut dissolves over 0.25 seconds. Progress is shown with a Cancel button, and the result lists each cut. All the cuts are one step to undo.</li><li>The Mouse lane shows each drag as a line from the press to the release. Recordings now store when each button is released.</li></ul><h3>Changes</h3><ul><li>The pointer overlay range is now <b>1 s</b> or <b>10 s</b> either side of the playhead; 10 s replaces All.</li><li>When the picture is turned in 3D, the pointer overlay's path, keyframes and rings are drawn on the turned picture, and each overlay frame is shown together with its frame of the picture.</li></ul><h3>Fixes</h3><ul><li>Pointer smoothing uses only the part of the recording shown in each clip, so the pointer no longer jumps about either side of a cut.</li><li>Moving the mouse over the timeline and the preview is more responsive: the pointer shape is set only when it changes.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.40/Retake-Pro-1.0.40.dmg" sparkle:edSignature="zWlIRMhTVmjjUB/m7nXXCGQgEeyZckPDxk200UFAWq1N70CeMYPkZsg7J7Qu4tCHpIYelntZo+RQsuUBye3yCQ==" length="10639587" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.39</title>
       <pubDate>Fri, 09 Oct 2026 09:15:51 GMT</pubDate>
       <sparkle:version>65</sparkle:version>
