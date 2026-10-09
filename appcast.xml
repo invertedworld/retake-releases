@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.41</title>
+      <pubDate>Fri, 09 Oct 2026 22:23:17 GMT</pubDate>
+      <sparkle:version>67</sparkle:version>
+      <sparkle:shortVersionString>1.0.41</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li><b>Recreate Selected Path:</b> while a range is selected on the Mouse lane, the Recreate button in the Pointer tab reads <b>Recreate Selected Path</b> and replaces the pointer's movement within that range only. The new path starts where the existing path has the pointer at the start of the range and rejoins it at the end.</li><li><b>Mouse-up events:</b> the Mouse lane shows every mouse-up. A downward-pointing cyan triangle marks each mouse-down and an upward-pointing triangle its mouse-up, joined by a line that is brighter for a drag. A mouse-up may be dragged to change how long the button is held.</li></ul><h3>Changes</h3><ul><li>Drags are taken only from the recorded mouse-down and mouse-up: a click is a drag when the recorded pointer moved while the button was held. Nothing is estimated.</li><li>When a project recorded before 1.0.40 is opened, a mouse-up is added 0.2 seconds after each mouse-down, and the status bar says so.</li><li>A mouse-down and its mouse-up are kept together. Deleting either deletes both. Another click cannot come between them, and when a cut falls between them, the mouse-up is moved to just before the cut.</li><li>The <b>Human</b> slider sits beside the Recreate button.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.41/Retake-Pro-1.0.41.dmg" sparkle:edSignature="o7IjMR6wqHc5+kMvPXDC33Z9E42exXBq0VyTVzdGMjZVbQ44bsWUYGkBG34zWSvaOEiATvxuSkxYCad38ZsBAA==" length="10657953" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.40</title>
       <pubDate>Fri, 09 Oct 2026 19:58:48 GMT</pubDate>
       <sparkle:version>66</sparkle:version>
