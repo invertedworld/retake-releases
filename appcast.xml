@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.39</title>
+      <pubDate>Fri, 09 Oct 2026 09:15:51 GMT</pubDate>
+      <sparkle:version>65</sparkle:version>
+      <sparkle:shortVersionString>1.0.39</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Changes</h3><ul><li>The edition of Retake sold from the download page is now called <b>Retake Pro</b>. It has its own bundle identifier, so macOS keeps its permissions and settings separate from the Mac App Store edition, and the two can no longer be confused when both are installed.</li><li>After this update macOS asks again for the Screen Recording, Input Monitoring, Camera and Microphone permissions. The Setup Assistant opens at the first launch and guides each one. Preferences, presets and the licence are carried over.</li><li>Licences are now sold at [retake-pro.com](https://retake-pro.com). The licence window has a <b>Buy a License…</b> button that opens the price section of the site.</li><li>The user manual is now the <b>Retake Pro User Manual</b>, written for this edition only. It is opened from <b>Help › User Manual</b> and is also available at [retake-pro.com](https://retake-pro.com/manual/Retake-Pro-User-Manual.pdf).</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.39/Retake-Pro-1.0.39.dmg" sparkle:edSignature="QkI1LMF+wYcCyXSctY2pFFyzc4UDtD8ON85uvHpU8RPJ1DZYvMx6CELiy2CU1gDdKKVEUddKkwllTD+qlWvKBA==" length="9904990" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake 1.0.38</title>
       <pubDate>Thu, 08 Oct 2026 17:15:46 GMT</pubDate>
       <sparkle:version>64</sparkle:version>
