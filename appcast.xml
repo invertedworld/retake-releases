@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.44</title>
+      <pubDate>Sat, 10 Oct 2026 20:15:09 GMT</pubDate>
+      <sparkle:version>70</sparkle:version>
+      <sparkle:shortVersionString>1.0.44</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Changes</h3><ul><li><b>Mouse clicks belong to the video rather than to a clip.</b> A click is a moment of the timeline: it may be dragged anywhere along it, onto any recording, with nothing to catch on at a clip's edges. It keeps clear of the clicks already on the recording it lands on, and a recording with no pointer of its own, such as a picture, takes none.</li><li><b>A press and its release stay together on the timeline.</b> They may be either side of a cut that the footage carries straight through, such as a plain split, since the gesture is unbroken there. Where footage between them has been cut out, the gesture ends at the cut: a button is never shown held across material that is not in the video.</li><li><b>A click whose footage is trimmed off the timeline is kept</b>, and shows again when that footage is trimmed back into view.</li><li><b>Zooms never overlap.</b> Dragging or trimming a zoom stops at its neighbours, so two zooms may meet but never cover the same moment. A zoom arriving inside another, by pasting or from an older project, begins where that one ends.</li><li><b>Two zooms that meet ease from one framing to the other.</b> Previously the picture snapped between them; the easing is still removed between the two halves of a zoom that was split, which hold the same framing.</li><li><b>Pins</b>, which zoom targets and pointer keyframes snap to, are now called pins rather than zoom pins, since they anchor both.</li></ul><h3>Fixes</h3><ul><li>The pointer's path on the preview is drawn through every keyframe, so a keyframe dragged away from its neighbours stays on the line.</li><li>Deleting the mouse events in a pointer range is one step, so one undo restores both the clicks and the keyframes.</li></ul><p>Projects made with earlier versions open unchanged; their clicks keep their times, their holds and the recordings they were made on.</p>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.44/Retake-Pro-1.0.44.dmg" sparkle:edSignature="n7m7/Zx4wSKSy3rh0aQPPxQ8P6GnpmSHo++zxl3N5B5dSsvuOXULfpgLB4VdtIA1qTvhkLdAWQbwMkSu7Cl7DA==" length="9474038" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.43</title>
       <pubDate>Sat, 10 Oct 2026 15:25:41 GMT</pubDate>
       <sparkle:version>69</sparkle:version>
