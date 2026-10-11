@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.45</title>
+      <pubDate>Sun, 11 Oct 2026 22:38:46 GMT</pubDate>
+      <sparkle:version>71</sparkle:version>
+      <sparkle:shortVersionString>1.0.45</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Changes</h3><ul><li><b>A recording may be a rectangle of the screen.</b> Choose <b>Area</b> in the Source menu or in Preflight Check, click <b>Select Area…</b>, and drag the rectangle out on any display. Its recorded size in pixels is shown as it is drawn.</li><li><b>The rectangle is adjusted before it is recorded.</b> Drag inside it to move it, drag one of the eight handles on its corners and edges to resize it, or drag outside it to start again. Press <b>Return</b>, or double-click inside it, to record that area; press <b>Esc</b> to cancel. The area is kept between launches, and is dropped if the display it was drawn on is no longer there.</li><li><b>The area is recorded like a screen</b>, cropped to the rectangle: computer sound, the Dock, desktop icon and menu bar options and the exclusion of Retake's own windows all work as they do for a whole display. A ring just outside the area shows what is being captured, and is not recorded.</li><li><b>The preview says when it is waiting for playback to begin.</b> A spinner appears in the middle of the picture when playback has been started and the picture has not moved within about a third of a second, and goes as soon as it moves. A quicker start shows nothing, and clicks pass through the spinner.</li></ul><h3>Fixes</h3><ul><li>The global recording hotkey works again during the countdown and while a window is being chosen. While Retake was listening for another key, such as Esc, the hotkey was taken but not acted on.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.45/Retake-Pro-1.0.45.dmg" sparkle:edSignature="+nPmdIDwy41mC2PDv0zpbyyl74HYubPhcmUwVKOse2tSUIAjLzuU7H2Me3TOGPgbarog4Pe8MZxB54vzOmEADw==" length="9521384" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.44</title>
       <pubDate>Sat, 10 Oct 2026 20:15:09 GMT</pubDate>
       <sparkle:version>70</sparkle:version>
