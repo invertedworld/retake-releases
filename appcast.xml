@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.47</title>
+      <pubDate>Wed, 14 Oct 2026 16:45:35 GMT</pubDate>
+      <sparkle:version>73</sparkle:version>
+      <sparkle:shortVersionString>1.0.47</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3><ul><li>Where two pieces of camera footage meet on the timeline, the camera bubble cuts directly from one to the other. It previously faded out at the end of the first and faded back in at the start of the second. A camera that begins after a gap, or ends before one, still fades.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.47/Retake-Pro-1.0.47.dmg" sparkle:edSignature="KKVO5kZOdtmeJbpQZdv0wPgxa25+TdtuBpbp9CTH4R7q9WnaX/pjw5Ztn4v4mH2EZaFzCOu5pu4sA5TYuLwnCQ==" length="9524453" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.46</title>
       <pubDate>Mon, 12 Oct 2026 21:10:40 GMT</pubDate>
       <sparkle:version>72</sparkle:version>
