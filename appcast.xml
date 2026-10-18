@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.48</title>
+      <pubDate>Sun, 18 Oct 2026 16:35:55 GMT</pubDate>
+      <sparkle:version>74</sparkle:version>
+      <sparkle:shortVersionString>1.0.48</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li>Changes of pointer shape appear as tabs along the top of the Mouse lane. A change may be moved along the timeline, given a different pointer, or deleted, and a new change may be added by right-clicking the lane and choosing Change Pointer Here. The pointers offered are those recorded in the clip and the standard macOS pointers, such as the arrow, the pointing hand and the I-beam.</li><li>Shrink on click, in the Pointer tab, makes the pointer shrink while the mouse button is held, as though pressed into the screen.</li></ul><h3>Improvements</h3><ul><li>Standard macOS pointers are drawn from the vector drawings that macOS uses, in the colours in which they were recorded, so they remain sharp at any size and zoom. Custom pointer colours now apply to every standard pointer, not only the arrow.</li><li>New recordings store pointers that apps supply themselves at the highest resolution macOS provides.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.48/Retake-Pro-1.0.48.dmg" sparkle:edSignature="wj28ZJAp7dbLQGEjxzSNrXGAsLMdknBHcCNwnCdQtCDWE4/+L0um5T9qPAFQmpqBAO9UewOsQ/wNyNlEvqlVDQ==" length="9633450" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.47</title>
       <pubDate>Wed, 14 Oct 2026 16:45:35 GMT</pubDate>
       <sparkle:version>73</sparkle:version>
