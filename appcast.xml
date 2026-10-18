@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.49</title>
+      <pubDate>Sun, 18 Oct 2026 19:59:59 GMT</pubDate>
+      <sparkle:version>75</sparkle:version>
+      <sparkle:shortVersionString>1.0.49</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li>Ellipses, rectangles with rounded corners, text boxes and blurs can be laid over the video on the Overlay lane. Add one at the playhead from the shapes menu in the transport bar, or by right-clicking the Overlay lane. Shapes have fill and outline colours and an outline width; text boxes have any installed font, with size, weight, italic, alignment, text colour and box colour; a blur is rectangular or elliptical, with an adjustable amount and a soft edge over which it blends into the picture.</li><li>Any number of overlays may be shown at once. Bring Forward and Send Backward move an overlay one layer at a time; overlapping overlays are placed in rows on the Overlay lane, the top of the stack in the top row.</li><li>Overlays move along keyframes. Once an overlay has a keyframe, moving, resizing or turning it at the playhead sets a keyframe there. Each keyframe has its own ease in and ease out. Keyframes appear as diamonds on the lane, where they can be dragged in time, or clicked to move the playhead to them; the path of a selected overlay is drawn on the preview.</li><li>Clicking an overlay on the preview selects it. The sides of a shape or blur can be dragged to change its width or height.</li><li>Full Screen Preview (View menu, ⇧⌘F, or the button at the right end of the transport bar) shows the preview in macOS full screen, with its own timeline bar, time and transport controls, which fade out while the mouse is still.</li></ul><h3>Changes</h3><ul><li>The Mouse lane is now called the Pointer lane.</li><li>The Voiceover and Show Pointer Overlay buttons have been removed from the transport bar. Both remain in the menus (Record › Record Voiceover at Playhead, View › Show Pointer Overlay) and on the V and P keys.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.49/Retake-Pro-1.0.49.dmg" sparkle:edSignature="PX74xkKTo5K9MbqgnVFmad29jQc2YR0SzTYdDpMX1XeJoVLuX4QfN3jn0rIIsxRdzJcDY1oOE8E8HeVz1QjbAA==" length="9879614" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.48</title>
       <pubDate>Sun, 18 Oct 2026 16:35:55 GMT</pubDate>
       <sparkle:version>74</sparkle:version>
