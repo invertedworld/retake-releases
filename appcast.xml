@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.52</title>
+      <pubDate>Wed, 21 Oct 2026 14:54:40 GMT</pubDate>
+      <sparkle:version>82</sparkle:version>
+      <sparkle:shortVersionString>1.0.52</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Changes</h3><ul><li>A video can be dropped on the Overlay lane and plays as a picture in picture, in the preview and in every export. It starts small in the lower right, and has the same size, rotation, position, fade, stacking and keyframe controls as any other overlay. Trimming its start moves into the video. A video overlay is silent.</li><li>Every overlay has a new setting, Transform to match 3D motion, in the Placement section. When it is on, the overlay turns and shifts with the recording's 3D motion, in perspective, and its handles on the preview follow it. It is off by default, so existing projects are unchanged.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.52/Retake-Pro-1.0.52.dmg" sparkle:edSignature="bm6Zut3scBCvKNF6zOMFEduwOHsouI4/fIGr6bOwZcg/u/1OLOL2ZZpaiLuyohOHjiNnc/Dt7Jll+9LZrMu0Bw==" length="10263749" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.51</title>
       <pubDate>Mon, 19 Oct 2026 23:14:44 GMT</pubDate>
       <sparkle:version>81</sparkle:version>
