@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.53</title>
+      <pubDate>Thu, 22 Oct 2026 12:07:02 GMT</pubDate>
+      <sparkle:version>83</sparkle:version>
+      <sparkle:shortVersionString>1.0.53</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Changes</h3><ul><li>The undo history of a project is saved with the project. When a project is opened again, Undo and Redo continue from where they were, with the same step names. The history holds at most 500 steps and about 50 MB; when either limit is reached, the oldest steps are dropped.</li><li>Edit › Clear Undo History… asks for confirmation, then removes every step that can be undone or redone, together with the saved history. The command is unavailable while no project is open, while there is nothing to undo or redo, and while a voiceover is recording.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.53/Retake-Pro-1.0.53.dmg" sparkle:edSignature="9g4oEHVH6p3wjSo8p8/enmbCtyy0TR5HC5HZpBJsPBvDpv17Lk0//4lWtLQ77KSH1JZ+K1tVsDfV237xTVYOBw==" length="10367617" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.52</title>
       <pubDate>Wed, 21 Oct 2026 14:54:40 GMT</pubDate>
       <sparkle:version>82</sparkle:version>
