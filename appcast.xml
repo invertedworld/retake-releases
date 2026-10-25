@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.54</title>
+      <pubDate>Sun, 25 Oct 2026 19:51:44 GMT</pubDate>
+      <sparkle:version>84</sparkle:version>
+      <sparkle:shortVersionString>1.0.54</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li>A new project opens at once, untitled, as Untitled1, Untitled2 and so on, and is kept in a temporary location until it is saved. File › Save (⌘S) asks for the project's name and location and moves it there, with its recordings and undo history.</li><li>Closing an untitled project, or quitting, asks whether to save it. Don't Save deletes the project and its recordings. An untitled project in which nothing has been recorded or changed is closed without the question and deleted.</li><li>⌘Esc stops a recording from any app. The take ends at the moment the keys are pressed, and the key press is not included in the keystroke overlay. The recording bar shows the shortcut.</li><li>The Motion tab has a Distance control, which moves the picture away from the viewer in perspective, from 0% to 300% of its distance at rest.</li></ul><h3>Changes</h3><ul><li>New projects start with no padding. A saved Default or Vertical preset that still has the earlier default padding of 0.07 is changed to match.</li><li>The pointer shrinks on a click only when Shrink on click is on.</li><li>Dragging a corner of a rectangle, ellipse or blur moves that corner and leaves the opposite corner in place.</li><li>The recording bar always has a light appearance.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.54/Retake-Pro-1.0.54.dmg" sparkle:edSignature="F/4u9HuhX8MrAGRO59/8G9Ex+ebyCPNQwUvciSzewOYNE6mKasmx4nlIeRnIyPmeI1yxfJKm+287bR+VwrN1Bg==" length="10420452" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.53</title>
       <pubDate>Thu, 22 Oct 2026 12:07:02 GMT</pubDate>
       <sparkle:version>83</sparkle:version>
