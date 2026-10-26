@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.57</title>
+      <pubDate>Mon, 26 Oct 2026 15:13:50 GMT</pubDate>
+      <sparkle:version>93</sparkle:version>
+      <sparkle:shortVersionString>1.0.57</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Changes</h3><ul><li>In the editor and the full screen preview, ← and → with Shift move the playhead 1 second, with Option 10 seconds, and with Shift and Option 1 minute.</li><li>With nothing selected, ↑ and ↓ move the playhead to the previous or next marker or cut. Shift-← and Shift-→ no longer move it to markers.</li><li>In the full screen preview, ↑ and ↓ move the playhead to the previous or next marker or cut.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.57/Retake-Pro-1.0.57.dmg" sparkle:edSignature="1lIMFDPKJ7Lkajv6tyyC3gNCKpXYt4YLR7MuEoS/jZeQ2+r1ySdC5klYN/YNNVa4F19oGVWwzOisN21foCwnAg==" length="10502257" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.56</title>
       <pubDate>Mon, 26 Oct 2026 14:02:49 GMT</pubDate>
       <sparkle:version>90</sparkle:version>
