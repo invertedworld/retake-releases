@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.55</title>
+      <pubDate>Mon, 26 Oct 2026 09:38:10 GMT</pubDate>
+      <sparkle:version>88</sparkle:version>
+      <sparkle:shortVersionString>1.0.55</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li>A recording can be cropped so that only part of it is shown. View › Crop…, or the Crop button after the Join button, opens Crop mode on the preview. The corners and sides of the frame set the part shown, and the round handle inside its top left corner rounds the corners of the picture. Apply (Return) crops the recording and Cancel (Esc) leaves it as it was.</li><li>The crop is non-destructive: the recorded movie is kept whole, and the crop can be changed or removed later. With the Auto aspect ratio the output takes the shape of the crop, and an export at the native size is the size of the cropped part.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.55/Retake-Pro-1.0.55.dmg" sparkle:edSignature="VRfABPi1yEx+oeBDEQhxpQ5ULm7q5w+Oqyg+L2+ohgC5f9C2poullXVcpRLSKxexLHNjerIFuOT+GJhTsPEIDQ==" length="10495685" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.54</title>
       <pubDate>Sun, 25 Oct 2026 19:51:44 GMT</pubDate>
       <sparkle:version>84</sparkle:version>
