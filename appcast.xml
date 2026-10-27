@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.58</title>
+      <pubDate>Tue, 27 Oct 2026 22:31:04 GMT</pubDate>
+      <sparkle:version>95</sparkle:version>
+      <sparkle:shortVersionString>1.0.58</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Changes</h3><ul><li>The licence check is harder to find in the application: the public key and the licence payload prefix are no longer stored as readable text, and release builds carry no field-name reflection metadata. Issued licence keys are unaffected.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.58/Retake-Pro-1.0.58.dmg" sparkle:edSignature="E6Tywfe6BAe+dCXK/G+IggrUhU7L1PqPn1tqXnjgohXsVt9hvLOwBDmbw43Q/FB1xVT+DAaA8xQgiRzJVgtcCQ==" length="10401399" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.57</title>
       <pubDate>Mon, 26 Oct 2026 15:13:50 GMT</pubDate>
       <sparkle:version>93</sparkle:version>
