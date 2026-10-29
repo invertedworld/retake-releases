@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.60</title>
+      <pubDate>Thu, 29 Oct 2026 21:40:01 GMT</pubDate>
+      <sparkle:version>97</sparkle:version>
+      <sparkle:shortVersionString>1.0.60</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Changes</h3><ul><li>The inspector tabs, the pin button and the strip at the right-hand edge of the window respond on macOS 27. The selected tab, whether the inspector is pinned, whether it is slid in, and both inspector widths are now held by the editor and remembered between launches.</li><li>The pinned inspector has its own divider. Dragging it changes the inspector's width between 260 and 640 points, and double-clicking it returns the width to its usual size. The inspector can no longer be dragged partly out of the window.</li><li>View › Reset Inspector pins the inspector again at its usual width.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.60/Retake-Pro-1.0.60.dmg" sparkle:edSignature="ocZbDC8WCWMZWtOcvSbfA9vJ8bExo9NbBa0o1bohWJ7rMARu+D56syKEM5I48NR/rlrVveYkT8194og1GLiTCA==" length="10444066" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.59</title>
       <pubDate>Thu, 29 Oct 2026 06:33:10 GMT</pubDate>
       <sparkle:version>96</sparkle:version>
