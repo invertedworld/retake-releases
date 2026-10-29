@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.59</title>
+      <pubDate>Thu, 29 Oct 2026 06:33:10 GMT</pubDate>
+      <sparkle:version>96</sparkle:version>
+      <sparkle:shortVersionString>1.0.59</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Changes</h3><ul><li>Aspect ratio gains a Custom setting. A square pad sets the shape of the video: the dot is the far corner of a rectangle, dragged right to widen and upward to heighten, with each side a whole number from 1 to 10 and the ratio reduced to lowest terms. A ratio may be saved and chosen again from the Saved menu.</li><li>The Aspect setting in the Style tab is now named Aspect ratio, and the manual covers the custom ratio.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.59/Retake-Pro-1.0.59.dmg" sparkle:edSignature="9v3g9IK26x7f0LhUBATFl7ymhFXJN5DpzhW9jvjTWcTAVRXZ8YE+mO7e4in4IvUoxfokuBBgrDdA1P4cIYYxAQ==" length="10430775" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.58</title>
       <pubDate>Tue, 27 Oct 2026 22:31:04 GMT</pubDate>
       <sparkle:version>95</sparkle:version>
