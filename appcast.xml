@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.61</title>
+      <pubDate>Fri, 30 Oct 2026 13:15:32 GMT</pubDate>
+      <sparkle:version>98</sparkle:version>
+      <sparkle:shortVersionString>1.0.61</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Retake Pro 1.0.61</h3><ul><li>The pointer's path is stored as Bézier curves. A selected keyframe on the preview shows two handles, which may be dragged to shape the curve; holding Option moves one handle alone.</li><li>A drag is no longer smoothed by Smooth, Soften Movement, Smooth Between Clicks or Glide, and is drawn dashed between its press and release. Recreate Whole Path keeps the route that the path has at present.</li><li>Path shown offers 1 s, 5 s and 10 s. The path fades towards the ends of the window, and the picture is dimmed by a quarter while it is shown.</li><li>The preview may be zoomed from 25% to 800%, with three buttons after the playback speed slider, by pinching over the pane around the picture, and with a border round the preview area while it is zoomed. The picture may be panned past the edge of the view.</li><li>A keyframe is easier to take where keyframes lie close together, and a stuck crosshair pointer no longer remains after the pointer leaves the preview.</li><li>The inspector is at least 440 points wide, and the visible lanes fill the timeline when empty lanes are hidden. Capture-lane thumbnails remain sharp when stretched.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.61/Retake-Pro-1.0.61.dmg" sparkle:edSignature="58g3jxv+Csdu402VldDvFQvW6kkpAwV1rjbYHr0DjCE0gcWwrIfbwSMpB+ZUjBnXWOW+ZBW3e1BRSzT6jWI/Cg==" length="10510901" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.60</title>
       <pubDate>Thu, 29 Oct 2026 21:40:01 GMT</pubDate>
       <sparkle:version>97</sparkle:version>
