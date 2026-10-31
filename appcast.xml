@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.63</title>
+      <pubDate>Sat, 31 Oct 2026 19:09:08 GMT</pubDate>
+      <sparkle:version>100</sparkle:version>
+      <sparkle:shortVersionString>1.0.63</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Retake Pro 1.0.63</h3><ul><li>The pointer's path and the ring at the playhead on the preview lie where the pointer is drawn in the video, which is the stored path averaged over the Smoothing setting.</li><li>With cycle mode on, pressing Space or the play button starts playback at the start of the cycle region, wherever the playhead is.</li><li>The instruction bar over the bottom of the preview while the pointer path is edited is removed.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.63/Retake-Pro-1.0.63.dmg" sparkle:edSignature="3s57CptKa2CMrdVP9cmAsVZzgtdsv3wsaipUEc7VYUGJV8XlGG6adxiORg1zLBsnnJe+bSWE6wm3xGqYitA6Ag==" length="10523234" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.62</title>
       <pubDate>Sat, 31 Oct 2026 17:37:07 GMT</pubDate>
       <sparkle:version>99</sparkle:version>
