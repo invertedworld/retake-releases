@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.62</title>
+      <pubDate>Sat, 31 Oct 2026 17:37:07 GMT</pubDate>
+      <sparkle:version>99</sparkle:version>
+      <sparkle:shortVersionString>1.0.62</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Retake Pro 1.0.62</h3><ul><li>While the Full Version is not owned, the editor windows and the full screen preview are hidden from screenshots and screen recordings made by the system or by other applications; they are captured as blank. Owning the Full Version, or activating a licence, removes the restriction.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.62/Retake-Pro-1.0.62.dmg" sparkle:edSignature="9cxI6XKj02BV2i08Lu5YwGPEbFSmnKXDuLFCRZ92dnvsc63UPkUkmrV9ytgStfOx41I+SqMUnyoqyvTaT9a3BQ==" length="10510451" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.61</title>
       <pubDate>Fri, 30 Oct 2026 13:15:32 GMT</pubDate>
       <sparkle:version>98</sparkle:version>
