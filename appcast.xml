@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.64</title>
+      <pubDate>Sun, 01 Nov 2026 10:20:37 GMT</pubDate>
+      <sparkle:version>101</sparkle:version>
+      <sparkle:shortVersionString>1.0.64</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Retake Pro 1.0.64</h3><ul><li>The Music lane is renamed Soundtrack, and Music is renamed Soundtrack throughout the application and the manual.</li><li>Items on the Soundtrack lane that overlap in time are placed in rows, as on the Overlay lane, and play together. There are no crossfades on the Soundtrack lane.</li><li>A video added to the Overlay lane places its sound on the Soundtrack lane. The sound is held to the video: moving or trimming either one moves or trims the other. Deleting the video deletes its sound. The sound of a video is drawn in the Overlay lane's colour.</li><li>Resizing a picture, video or text box by a corner keeps the opposite corner where it is.</li><li>The Overlay lane and Make Less Boring are Full Version features.</li><li>The Microphone tab is renamed Audio, and its Soundtrack section is placed below Ducking Under Voiceover.</li><li>The selected inspector tab shows its icon in colour and its caption in blue.</li><li>The inspector is at least 480 points wide, and the labels of the 3D controls fit on one line.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.64/Retake-Pro-1.0.64.dmg" sparkle:edSignature="YxTnEm7eU5vpaBKYqLVMhWwCsNBeXDR6xoQs7mhxKwTnBGGI1FTcVpfXuy8hYcdwwI39YOFg0g32XHhZQT13CA==" length="10891817" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.63</title>
       <pubDate>Sat, 31 Oct 2026 19:09:08 GMT</pubDate>
       <sparkle:version>100</sparkle:version>
