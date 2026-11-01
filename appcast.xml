@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.65</title>
+      <pubDate>Sun, 01 Nov 2026 13:17:23 GMT</pubDate>
+      <sparkle:version>102</sparkle:version>
+      <sparkle:shortVersionString>1.0.65</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Retake Pro 1.0.65</h3><ul><li>The screenshots in the user manual show the current editor: the Soundtrack lane, the Audio tab and the selected tab's icon in colour.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.65/Retake-Pro-1.0.65.dmg" sparkle:edSignature="YxMYVsW5xel4H2jRedzG+Wb50D1Uawbcgn32iqNwl4FvdzN6PQpj9PZeOMWIWByiuDJFl5QqRuA2jFdk6kzPCg==" length="12900653" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.64</title>
       <pubDate>Sun, 01 Nov 2026 10:20:37 GMT</pubDate>
       <sparkle:version>101</sparkle:version>
