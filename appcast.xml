@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.66</title>
+      <pubDate>Tue, 03 Nov 2026 14:15:13 GMT</pubDate>
+      <sparkle:version>103</sparkle:version>
+      <sparkle:shortVersionString>1.0.66</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Retake Pro 1.0.66</h3><ul><li>The button that asks macOS for access, in each step of the Setup Assistant (Screen Recording, Camera, Microphone and Input Monitoring), is labelled <b>Continue</b>.</li><li>Music is renamed Soundtrack. Overlapping soundtrack items are placed in rows and mixed.</li><li>A video on the Overlay lane brings its sound, which is held to the video.</li><li>A picture or video resized by a corner keeps the opposite corner in place.</li><li>The pointer path is stored as Bézier curves with draggable handles. The pointer path and the ring on the preview lie where the pointer is drawn in the video.</li><li>Aspect ratio has a Custom setting and a Saved menu for ratios kept for later.</li><li>A non-destructive crop tool is available from View › Crop… and from a toolbar button after Join.</li><li>The preview zooms from 25% to 800%.</li><li>Shift, Option or both with ← and → move the playhead by 1 second, 10 seconds or 1 minute.</li><li>With cycle mode on, play starts at the start of the cycle region.</li><li>The editor windows and the full screen preview are hidden from screenshots and screen recordings until the Full Version is owned.</li><li>The manual covers these changes.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.66/Retake-Pro-1.0.66.dmg" sparkle:edSignature="HxsPKvHKa88ZtORQjGR70MIelFipiaNcvz/Vsue9nvMo1ndZEBNBSePvOxcc+4gYpF3IygVfvJAU/96TsyB/Cg==" length="12900767" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.65</title>
       <pubDate>Sun, 01 Nov 2026 13:17:23 GMT</pubDate>
       <sparkle:version>102</sparkle:version>
