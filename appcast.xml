@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.67</title>
+      <pubDate>Tue, 03 Nov 2026 15:11:17 GMT</pubDate>
+      <sparkle:version>104</sparkle:version>
+      <sparkle:shortVersionString>1.0.67</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Retake Pro 1.0.67</h3><ul><li>The joysticks on the Motion tab (Turn and Shift) respond again. They had stopped responding in the downloaded app since version 1.0.58; the sliders were not affected.</li><li>The release checks now refuse a build in which the joysticks could not respond.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.67/Retake-Pro-1.0.67.dmg" sparkle:edSignature="khEhV882IBwTPNb16VIuiLGYF3QndqVC0cDqJyW5rltkGDEwvKnbt2ypMT05nFkxXx5aMf5u8uI98cGS9VeQBw==" length="13010612" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.66</title>
       <pubDate>Tue, 03 Nov 2026 14:15:13 GMT</pubDate>
       <sparkle:version>103</sparkle:version>
