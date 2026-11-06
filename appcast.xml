@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.68</title>
+      <pubDate>Fri, 06 Nov 2026 07:26:24 GMT</pubDate>
+      <sparkle:version>106</sparkle:version>
+      <sparkle:shortVersionString>1.0.68</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Retake Pro 1.0.68</h3><ul><li>Changing the speed of a speed change keeps it on the same first and last frames of the recording. A faster speed makes the region shorter on the timeline and a slower speed makes it longer. Speed changes after it move with it, so that each stays on its own footage. A change to or from a freeze frame keeps the region's length.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.68/Retake-Pro-1.0.68.dmg" sparkle:edSignature="ZuXYN5bwtGgUr4nxNQrWXAldRP09vWRa83LXiLS4ypJYT6ld+1fOhM/y6/xYpDhAkMY2lqSh7tA3TH2+5SY8AQ==" length="13015038" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.67</title>
       <pubDate>Tue, 03 Nov 2026 15:11:17 GMT</pubDate>
       <sparkle:version>104</sparkle:version>
