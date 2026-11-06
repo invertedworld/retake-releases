@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.69</title>
+      <pubDate>Fri, 06 Nov 2026 13:52:51 GMT</pubDate>
+      <sparkle:version>108</sparkle:version>
+      <sparkle:shortVersionString>1.0.69</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Retake Pro 1.0.69</h3><ul><li>A pointer left still during a recording stays where it is. Previously a click during a long rest could send the recorded pointer far off the screen until it moved again. In a recording made before this version, select the affected stretch on the Pointer lane and choose <b>Reset to Recorded</b> to rebuild the pointer's path.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.69/Retake-Pro-1.0.69.dmg" sparkle:edSignature="MkDBL0NiaMWVCCG37d64t60OdeXSOyL3Tm4ZqhHVYhRO9iwpPXBF75c2xwPiVAdyIAeOj2zvT0hsbwgyhCvVDg==" length="13015212" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.68</title>
       <pubDate>Fri, 06 Nov 2026 07:26:24 GMT</pubDate>
       <sparkle:version>106</sparkle:version>
