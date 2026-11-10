@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.70</title>
+      <pubDate>Tue, 10 Nov 2026 13:05:34 GMT</pubDate>
+      <sparkle:version>109</sparkle:version>
+      <sparkle:shortVersionString>1.0.70</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Retake Pro 1.0.70</h3><ul><li>Cancelling an export, or a render in the queue, no longer causes Retake Pro to quit unexpectedly on rare occasions.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.70/Retake-Pro-1.0.70.dmg" sparkle:edSignature="90DPNYa2Itiru3ZGBCrm3pwPPPDlgCDx6AN/FzKXikSrzW6m5PmFB7dbDSzXbDaWIp8OAFYGnulUD0ZyoYx0Dw==" length="13016499" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.69</title>
       <pubDate>Fri, 06 Nov 2026 13:52:51 GMT</pubDate>
       <sparkle:version>108</sparkle:version>
