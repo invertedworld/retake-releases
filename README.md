@@ -1,4 +1,8 @@
-# Retake
+# Retake Pro
+
+Retake Pro is described, sold and supported at **[retake-pro.com](https://retake-pro.com/)**, where its
+[support](https://retake-pro.com/support) and [contact](https://retake-pro.com/contact) pages are. This repository
+hosts the downloads and the update feed.
 
 A native macOS screen recorder and editor: record your screen or a single window, then edit it on a timeline,
 including every pointer movement, zoom, keystroke overlay, voiceover and camera.
@@ -15,9 +19,11 @@ Requires macOS 15 or later. Signed with a Developer ID and notarized by Apple.
 Open the DMG and drag Retake to Applications. On first use macOS asks for Screen Recording permission
 (and Microphone / Camera if you record them).
 
-## Trial mode and licences
+## Trial Mode and licences
 
-Without a licence Retake runs in **trial mode**: everything works, and exports stop after the first 60 seconds.
-There's no time limit. Enter your name and licence key under **Retake › License…** to export in full.
+Without a licence Retake Pro runs in **Trial Mode**, with no time limit and no length limit. Every feature works and
+can be seen in the preview, and nothing is watermarked. A project that uses one of the seven Full Version features is
+exported once a licence has been activated under **Retake Pro › License…**. Licences are sold at
+[retake-pro.com](https://retake-pro.com/#pricing).
 
-This repository only hosts downloads; the source is private.
+The source is private.
