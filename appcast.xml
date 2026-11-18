@@ -6,6 +6,15 @@
     <description>Retake updates</description>
     <language>en</language>
     <item>
+      <title>Retake Pro 1.0.73</title>
+      <pubDate>Wed, 18 Nov 2026 22:49:27 GMT</pubDate>
+      <sparkle:version>116</sparkle:version>
+      <sparkle:shortVersionString>1.0.73</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Retake Pro 1.0.73</h3><ul><li>The width and height of a selected area can be typed in. Double-click the size shown above the area, enter the width and height in pixels, and press Return. Each side is kept between 50 pixels and the size of the display.</li><li>The smallest area that can be selected is now 50 pixels on each side.</li><li>The start of a voiceover is played in full in the editor.</li><li>The editor windows can be shown over a screen-sharing call or captured in a screenshot without a licence. Only the full screen preview is hidden from capture until the Full Version is owned.</li><li>Without a licence, Retake Pro is the free version. The licence window opens by itself only on the first launch. It is opened at any time with <b>Free version. Upgrade…</b> in the top bar or the About window, or with <b>Upgrade…</b> in the Export sheet.</li><li>The dialog shown on the first start after an update has been removed.</li><li>The Setup Assistant asks macOS for each permission before showing the steps in System Settings.</li></ul>]]></description>
+      <enclosure url="https://github.com/invertedworld/retake-releases/releases/download/v1.0.73/Retake-Pro-1.0.73.dmg" sparkle:edSignature="JwvQmjC9VdcLIvX6F/LXfhM43uB7wKSt2AafWXB9IztuhCMnXBbHq/4hIJgWGei/jisuLDJQwBWvrZwLX0aZCw==" length="11031381" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Retake Pro 1.0.70</title>
       <pubDate>Tue, 10 Nov 2026 13:05:34 GMT</pubDate>
       <sparkle:version>109</sparkle:version>
